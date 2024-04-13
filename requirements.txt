@@ -5,5 +5,6 @@ gTTS
 google-generativeai
 python-dotenv
 streamlit
-
 -e .
+
+#for mac first install "brew install portaudio" then pyaudio

@@ -1,4 +1,4 @@
-# Multilingual-assistant-GenAI
+# Multilingual Assistant
 
 How to run?
 
